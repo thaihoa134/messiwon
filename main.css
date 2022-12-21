@@ -31,8 +31,7 @@ h1:active{
     display: block; margin-left: auto; margin-right: auto;
     
 }
-p{
-    font-size: 3rem;
-    font-weight: bold;
-    margin-left: 2rem;
+h2{
+    font-size: 27px; 
+    margin-left: 1rem;
 }
