@@ -1,4 +1,4 @@
-tml{
+html{
     font-size: 62.5%;
 }
 .box{
@@ -6,11 +6,11 @@ tml{
     height: 100%;
     width: 100%;
 }
-h2:hover{
+#ok:hover{
     color: red;
 }
 h1{
-    font-size: 2.6rem;
+    font-size: 3rem;
     font-family: fantasy;
     text-align: center;
     color: #8d1c3d;
@@ -25,4 +25,7 @@ h1:active{
     text-align: center;
     display: block; margin-left: auto; margin-right: auto;
     
+}
+#qq{
+    font-size: 3rem;
 }
